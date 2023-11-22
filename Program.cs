@@ -3,10 +3,7 @@
     "Ismail Adegbite", "Victor Emetole", "Kayode Emmanuel", "Tolu Obasun", "Uche Ijomanta"
 };
 
-List<int> studentAges = new List<int>()
-{
-    17, 19, 18, 20, 16, 21, 18, 22, 17, 19
-};
+List<int> studentAges = new List<int>();
 
 Random random = new Random();
 
